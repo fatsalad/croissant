@@ -1,6 +1,23 @@
+body {
+  background-color: blanchedalmond;
+}
+
 h1,
 p {
   text-align: center;
 }
 
+a {
+  margin: 10px;
+}
 
+div {
+  display: block;
+  text-align: center;
+  margin: 10px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
